@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🏆 LeetCode Progress
 <br/>
-<a href="https://leetcode.com/wendolyr/">
+<a href="https://leetcode.com/Andrey_Egorov/">
   <p align="center">
     <img width="400" height="200" src="https://leetcard.jacoblin.cool/Andrey_Egorov">
   </p>
