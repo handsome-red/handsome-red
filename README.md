@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 <a href="https://leetcode.com/wendolyr/">
   <p align="center">
-    <img width="400" height="200" src="https://leetcard.jacoblin.cool/wendolyr">
+    <img width="400" height="200" src="https://leetcard.jacoblin.cool/Andrey_Egorov">
   </p>
 </a>
 <br/>  
